@@ -1,9 +1,1 @@
-This is a quiz game for fan of anime openings song.
-
-Language: Kotlin
-
-Technologies:
-- Using Jetpack Compose to make UI.
-- Using Media Player to play music.
-- Using SharePreferences to store score.
-- ...
+An simple app build in jetpack compose without using any database yet. This is the 1st version of this app maybe will continue developing in the future
