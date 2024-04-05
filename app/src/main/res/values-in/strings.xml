@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime Tune Trivia</string>
+    <string name="point">Poin:</string>
+    <string name="play">MAINKAN</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="copyright">Nama : Rahmat Pratami \nNIM : 6706223136 \n\nCopyright © 2021 - 2024 \nAll rights reserved.</string>
+    <string name="back">Kembali</string>
+    <string name="share_point">Point saat ini: %1$d</string>
+    <string name="no_points">Belum bisa membagikan poin karena masih 0</string>
+    <string name="share_score">Bagikan Skor</string>
+</resources>

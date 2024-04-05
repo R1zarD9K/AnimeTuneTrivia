@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Anime Tune Trivia</string>
+    <string name="point">Point:</string>
+    <string name="play">PLAY</string>
+    <string name="share_point">Current point: %1$d</string>
+    <string name="no_points">You cannot share points because your points are still 0</string>
+    <string name="share_score">Share Score</string>
+
+    <string-array name="ListSong">
+        <item>attack_on_titan1</item>
+        <item>attack_on_titan2</item>
+        <item>beastars</item>
+        <item>black_clover_op10</item>
+        <item>bna</item>
+        <item>bungo_stray_dogs_season3</item>
+        <item>darling_in_the_franxx</item>
+        <item>darwins_game</item>
+        <item>domestic_kanojo</item>
+        <item>fullmetal_alchemist1</item>
+        <item>god_of_highschool</item>
+        <item>goblin_slayer</item>
+        <item>grand_blue</item>
+        <item>id_invaded</item>
+        <item>jojo9</item>
+        <item>jujutsu_kaisen</item>
+        <item>kaguya_sama</item>
+        <item>kakushigoto</item>
+        <item>kimetsu_no_yaiba</item>
+        <item>koi_to_uso</item>
+        <item>mob_psycho</item>
+        <item>overlord4</item>
+        <item>rent_a_girlfriend</item>
+        <item>saenai_heroine</item>
+        <item>sword_art_online_alicization_op1</item>
+        <item>sword_art_online_alicization_op2</item>
+        <item>the_rising_of_the_shield_hero</item>
+        <item>vinland_saga_op1</item>
+        <item>vinland_saga_op2</item>
+        <item>yakusoku_no_neverland</item>
+
+    </string-array>
+
+    <string name="about_me">About me</string>
+    <string name="copyright">Nama : Rahmat Pratami \nNIM : 6706223136 \n\nCopyright © 2021 - 2024 \nAll rights reserved.</string>
+    <string name="back">Back</string>
+
+</resources>
